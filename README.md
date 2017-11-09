@@ -17,8 +17,6 @@
 
 * **Hamdy Farah** - (https://github.com/hamdyfarah13)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 ## Acknowledgments
 
 * Red Academy Instructors for their support.
