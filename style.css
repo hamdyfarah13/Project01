@@ -45,89 +45,90 @@ table {
 /* end of Reset CSS */
 
 @font-face {
-	font-family: 'raleway';
-	src: url('fonts/raleway-medium-webfont.eot');
-	src: url('fonts/raleway-medium-webfont.eot?#iefix') format('embedded-opentype'),
-		url('fonts/raleway-medium-webfont.woff2') format('woff2'),
-		url('fonts/raleway-medium-webfont.ttf') format('truetype'),
-		url('fonts/raleway-medium-webfont.svg#raleway-medium-webfont') format('svg');
+	font-family: 'Raleway';
+ 	src: url('fonts/Raleway-Medium.eot');
+ 	src: url('fonts/Raleway-Medium.eot?#iefix') format('embedded-opentype'),
+ 		url('fonts/Raleway-Medium.woff2') format('woff2'),
+ 		url('fonts/Raleway-Medium.ttf') format('truetype'),
+ 		url('fonts/Raleway-Medium.svg#Raleway-Medium') format('svg');
 	font-weight: 500;
 	font-style: normal;
 
 
 @font-face {
-	font-family: 'raleway';
-	src: url('fonts/raleway-lightitalic-webfont.eot');
-	src: url('fonts/raleway-lightitalic-webfont.eot?#iefix') format('embedded-opentype'),
-		url('fonts/raleway-lightitalic-webfont.woff2') format('woff2'),
-		url('fonts/raleway-lightitali-webfontc.ttf') format('truetype'),
-		url('fonts/raleway-lightitalic-webfont.svg#raleway-lightitalic-webfont') format('svg');
+	font-family: 'Raleway';
+ 	src: url('fonts/Raleway-LightItalic.eot');
+ 	src: url('fonts/Raleway-LightItalic.eot?#iefix') format('embedded-opentype'),
+ 		url('fonts/Raleway-LightItalic.woff2') format('woff2'),
+ 		url('fonts/Raleway-LightItalic.ttf') format('truetype'),
+ 		url('fonts/Raleway-LightItalic.svg#Raleway-LightItalic') format('svg');
 	font-weight: 300;
 	font-style: italic;
 }
 
 @font-face {
 	font-family: 'raleway';
-	src: url('fonts/raleway-light-webfont.eot');
-	src: url('fonts/raleway-light-webfont.eot?#iefix') format('embedded-opentype'),
-		url('fonts/raleway-light-webfont.woff2') format('woff2'),
-		url('fonts/raleway-light-webfont.ttf') format('truetype'),
-		url('fonts/raleway-light-webfont.svg#raleway-light-webfont') format('svg');
+	font-family: 'Raleway';
+ 	src: url('fonts/Raleway-Light.eot');
+ 	src: url('fonts/Raleway-Light.eot?#iefix') format('embedded-opentype'),
+ 		url('fonts/Raleway-Light.woff2') format('woff2'),
+ 		url('fonts/Raleway-Light.ttf') format('truetype'),
+ 		url('fonts/Raleway-Light.svg#Raleway-Light') format('svg');
 	font-weight: 300;
 	font-style: normal;
 }
 
 @font-face {
-	font-family: 'raleway';
-	src: url('fonts/raleway-mediumitalic-webfont.eot');
-	src: url('fonts/raleway-mediumitalic-webfont.eot?#iefix') format('embedded-opentype'),
-		url('fonts/raleway-mediumitalic-webfont.woff2') format('woff2'),
-		url('fonts/raleway-mediumitalic-webfont.ttf') format('truetype'),
-		url('fonts/raleway-mediumitalic-webfont.svg#raleway-mediumitalic-webfont') format('svg');
+	font-family: 'Raleway';
+ 	src: url('fonts/Raleway-MediumItalic.eot');
+ 	src: url('fonts/Raleway-MediumItalic.eot?#iefix') format('embedded-opentype'),
+ 		url('fonts/Raleway-MediumItalic.woff2') format('woff2'),
+ 		url('fonts/Raleway-MediumItalic.ttf') format('truetype'),
+ 		url('fonts/Raleway-MediumItalic.svg#Raleway-MediumItalic') format('svg');
 	font-weight: 500;
 	font-style: italic;
 }
 
 @font-face {
 	font-family: 'playfair display';
-	src: url('fonts/playfairdisplay-italic-webfont.eot');
-	src: url('fonts/playfairdisplay-italic-webfont.eot?#iefix') format('embedded-opentype'),
-		url('fonts/playfairdisplay-italic-webfont.woff2') format('woff2'),
-		url('fonts/playfairdisplay-italic-webfont.ttf') format('truetype'),
-		url('fonts/playfairdisplay-italic-webfont.svg#playfairdisplay-italic-webfont') format('svg');
+	src: url('fonts/playfairdisplay-italic.eot');
+	src: url('fonts/playfairdisplay-italic.eot?#iefix') format('embedded-opentype'),
+		url('fonts/playfairdisplay-italic.woff2') format('woff2'),
+		url('fonts/playfairdisplay-italic.ttf') format('truetype'),
+		url('fonts/playfairdisplay-italic.svg#playfairdisplay-italic') format('svg');
 	font-weight: normal;
 	font-style: italic;
 }
 
 @font-face {
 	font-family: 'playfair display';
-	src: url('fonts/playfairdisplay-bold-webfont.eot');
-	src: url('fonts/playfairdisplay-bold-webfont.eot?#iefix') format('embedded-opentype'),
-		url('fonts/playfairdisplay-bold-webfont.woff2') format('woff2'),
-		url('fonts/playfairdisplay-bold-webfont.ttf') format('truetype'),
-		url('fonts/playfairdisplay-bold-webfont.svg#playfairdisplay-bold-webfont') format('svg');
+	src: url('fonts/playfairdisplay-bold.eot');
+	src: url('fonts/playfairdisplay-bold.eot?#iefix') format('embedded-opentype'),
+		url('fonts/playfairdisplay-bold.woff2') format('woff2'),
+		url('fonts/playfairdisplay-bold.ttf') format('truetype'),
+		url('fonts/playfairdisplay-bold.svg#playfairdisplay-bold') format('svg');
 	font-weight: bold;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: 'playfair display';
-	src: url('fonts/playfairdisplay-regular-webfont.eot');
-	src: url('fonts/playfairdisplay-regular-webfont.eot?#iefix') format('embedded-opentype'),
-		url('fonts/playfairdisplay-regular-webfont.woff2') format('woff2'),
-		url('fonts/playfairdisplay-regular-webfont.ttf') format('truetype'),
-		url('fonts/playfairdisplay-regular-webfont.svg#playfairdisplay-regular-webfont') format('svg');
+	src: url('fonts/playfairdisplay-regular.eot');
+	src: url('fonts/playfairdisplay-regular.eot?#iefix') format('embedded-opentype'),
+		url('fonts/playfairdisplay-regular.woff2') format('woff2'),
+		url('fonts/playfairdisplay-regular.ttf') format('truetype'),
+		url('fonts/playfairdisplay-regular.svg#playfairdisplay-regular') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: 'playfair display';
-	src: url('fonts/playfairdisplay-bolditalic-webfont.eot');
-	src: url('fonts/playfairdisplay-bolditalic-webfont.eot?#iefix') format('embedded-opentype'),
-		url('fonts/playfairdisplay-bolditalic-webfont.woff2') format('woff2'),
-		url('fonts/playfairdisplay-bolditalic-webfont.ttf') format('truetype'),
-		url('fonts/playfairdisplay-bolditalic-webfont.svg#playfairdisplay-bolditalic-webfont') format('svg');
+	src: url('fonts/playfairdisplay-bolditalic.eot');
+	src: url('fonts/playfairdisplay-bolditalic.eot?#iefix') format('embedded-opentype'),
+		url('fonts/playfairdisplay-bolditalic.woff2') format('woff2'),
+		url('fonts/playfairdisplay-bolditalic.ttf') format('truetype'),
+		url('fonts/playfairdisplay-bolditalic.svg#playfairdisplay-bolditalic') format('svg');
 	font-weight: bold;
 	font-style: italic;
 }
